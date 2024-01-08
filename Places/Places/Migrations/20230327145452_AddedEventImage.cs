@@ -5,24 +5,25 @@
 namespace Places.Migrations
 {
     /// <inheritdoc />
-    public partial class SecondMigration : Migration
+    public partial class AddedEventImage : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
-                name: "Email",
-                table: "UserProfile",
+                name: "EventImage",
+                table: "Events",
                 type: "nvarchar(max)",
-                nullable: true);
+                nullable: false,
+                defaultValue: "");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropColumn(
-                name: "Email",
-                table: "UserProfile");
+                name: "EventImage",
+                table: "Events");
         }
     }
 }

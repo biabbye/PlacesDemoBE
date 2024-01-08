@@ -294,6 +294,8 @@ C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Places.runtimeconfig.json
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Places.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Places.pdb
+C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Humanizer.dll
@@ -328,7 +330,9 @@ C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\bianca.enache\sources\repos\PlacesDemoBE\Places\Places\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
